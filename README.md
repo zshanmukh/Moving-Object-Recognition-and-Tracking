@@ -6,3 +6,4 @@ Detection of moving objects and motion-based tracking is presented in this proje
 
 ![dsp1](https://user-images.githubusercontent.com/53971868/99949388-f302db00-2da0-11eb-9ca6-3df12a4a583b.jpg)
 
+![dsp2](https://user-images.githubusercontent.com/53971868/99949529-31989580-2da1-11eb-8dae-d7d300e09f9f.jpg)
